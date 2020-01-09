@@ -7,8 +7,8 @@ Ta projekt vsebuje navodila in vzorce za digitalizacijo hišnih in ledinskih ime
 Vzorci so pripravljeni za vnos imen v projektih za program [QGIS](https://qgis.org/) v treh variantah:
 
 - [x] slovensko za Avstrijo (`FluLed_digitalizacija_Slo_AT/`)
+- [x] slovensko za Slovenijo (`FluLed_digitalizacija_Slo_SI/`)
 - [ ] nemško za Avstrijo (TODO)
-- [ ] slovensko za Slovenijo (TODO)
 
 ## Navodila
 
